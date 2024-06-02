@@ -2,7 +2,7 @@
 - 👀 I’m interested in gamming, machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ... anything, really
-- 📫 How to reach me: gambitricks@me.com
+- 📫 How to reach me: DanielFOrigoni@gmail.com
 
 <!---
 Daniel-Origoni/Daniel-Origoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
